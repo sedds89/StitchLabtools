@@ -36,3 +36,5 @@ Build the bones if you want the learning curve. Expect incomplete pieces. That i
 ## License
 
 Personal use of official APKs. No fork, no rebuild-as-product, no resale. See [`LICENSE`](LICENSE).
+
+This repository is a public architectural/reference edition of Frankenstein. It is intentionally not the production source tree. The downloadable builds demonstrate the complete system; selected source is published to document authorship, architecture and integration patterns without disclosing proprietary implementation.
