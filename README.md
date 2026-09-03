@@ -11,7 +11,7 @@ This repo is **shareable bones + official APKs**. It is **not** open source prod
 | Bare-bones Gradle sketches to explore the shape | Training, datasets, model integrations |
 | | Workspace setups, debug dumps, cloud/SaaS internals |
 
-Official apps are the APKs. Bones exist so curious builders can **try** and hit the same hard problems (companion runtime, AIDL, packaging). We are not solving those for you here.
+Official apps are the APKs. Bones exist for curious builders
 
 Want full source to contribute, or a commercial / custom deal? Email **sedds89@gmail.com**.
 
