@@ -1,0 +1,29 @@
+# Local / secrets
+local.properties
+**/local.properties
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example
+**/.wrangler/
+
+# Build
+**/build/
+**/.gradle/
+**/.kotlin/
+**/.cxx/
+**/.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Do not commit private trees
+**/driver/
+**/training/
+**/datasets/
+**/*.gguf
+**/*.litertlm

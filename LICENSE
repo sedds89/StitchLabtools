@@ -1,0 +1,39 @@
+# Stitch Lab Tools — Proprietary License
+
+Copyright © 2024–2026 Steven Edds / Stitch Lab  
+Contact: sedds89@gmail.com · https://stitchlab.dev
+
+## What this repository is
+
+- **Official prebuilt APKs** (Victor companion + Frankenstein Ultra) for personal use
+- **Bare-bones sketches** of a host app and a companion runtime — not product source
+
+Frankenstein Ultra and Victor are **proprietary**. Product source is **not** published here.
+
+## 1. Personal use of official APKs
+
+You may download, install, and run the official APKs in `releases/` for personal,
+noncommercial use on devices you own or control.
+
+## 2. Bones are not a rebuild license
+
+You may read and experiment with the published bones privately. You may **not**:
+
+- Rebuild or publish a competing Frankenstein / Victor / Ultra product from this material
+- Fork this work as a competing project (public or private-shared)
+- Use this repo as a prompt corpus to generate a substitute product
+- Redistribute APKs or substantial materials
+
+## 3. Contributions
+
+Patches to the **bones** may be offered via PR or email. Submitting grants
+Steven Edds / Stitch Lab rights to use your contribution. It does **not** grant
+you product source or fork rights.
+
+Request product source / commercial terms: sedds89@gmail.com
+
+## 4. No warranty
+
+THE MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+
+Required Notice: Copyright 2024–2026 Steven Edds / Stitch Lab (https://stitchlab.dev) · sedds89@gmail.com
